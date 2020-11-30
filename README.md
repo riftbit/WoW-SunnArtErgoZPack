@@ -1,2 +1,4 @@
 # WoW-SunnArtErgoZPack
-SunnArtErgoZPack for World of Warcraft
+
+[SunnArtErgoZPack](https://www.curseforge.com/wow/addons/sunnartergozpack) for World of Warcraft
+
