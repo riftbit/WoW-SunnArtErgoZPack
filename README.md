@@ -1,6 +1,6 @@
-[![](https://cf.way2muchnoise.eu/title/423628.svg)](https://www.curseforge.com/wow/addons/sunnartergozpack)
-[![](https://cf.way2muchnoise.eu/full_423628_downloads.svg)](https://www.curseforge.com/wow/addons/sunnartergozpack)
-[![](https://cf.way2muchnoise.eu/author/full_riftbit_downloads.svg)](https://www.curseforge.com/members/riftbit/projects)
+
+[![Project: Sunn - Viewport Art (SunnArt) by [riftbit] ErgoZ](https://cf.way2muchnoise.eu/full_423628_downloads.svg)](https://www.curseforge.com/wow/addons/sunnartergozpack)
+[![Author: \[riftbit\] ErgoZ](https://cf.way2muchnoise.eu/author/full_riftbit_downloads.svg)](https://www.curseforge.com/members/riftbit/projects)
 
 ## Overview
 
