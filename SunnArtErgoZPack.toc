@@ -1,11 +1,16 @@
 ## Interface: 90002
-## Author: riftbit [ErgoZ]
-## Title: Sunn - Viewport Art (SunnArt) by [riftbit] ErgoZ
-## Notes: Textures for Sunn - Viewport Art (SunnArt) by [riftbit] ErgoZ
-## Version: 0.1.2
+## Author: [riftbit] ErgoZ
+## Title: Sunn - Viewport Art (|cFF16C3F2SunnArt|r) by |cffff0000[riftbit] ErgoZ|r
+## Notes: Textures for Sunn - Viewport Art (SunnArt) by |cffff0000[riftbit] ErgoZ|r
+## Notes-ruRU: Дополнительные текстуры для Sunn - Viewport Art (SunnArt) by |cffff0000[riftbit] ErgoZ|r
+## Version: 0.2.0
 ## DefaultState: Enabled
 ## Dependencies: SunnArt
-## X-eMail: ergozru@gmail.com
-## X-site: https://riftbit.com
-## X-site: https://ergoz.ru
+## X-Website: https://riftbit.com
+## X-Website: https://ergoz.ru
+## X-Website: https://www.curseforge.com/wow/addons/sunnartergozpack
+## X-Category: Artworks
+## X-Email: ergozru@gmail.com
+## X-Localizations: enUS, ruRU
+
 SunnArtErgoZPack.lua
