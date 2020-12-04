@@ -1,9 +1,11 @@
 ## Interface: 90002
 ## Author: riftbit [ErgoZ]
-## Title: Sunn - Art Pack riftbit
-## Notes: Textures for Sunn - Viewport Art (SunnArt)
-## Version: 0.1.1
+## Title: Sunn - Viewport Art (SunnArt) by [riftbit] ErgoZ
+## Notes: Textures for Sunn - Viewport Art (SunnArt) by [riftbit] ErgoZ
+## Version: 0.1.2
 ## DefaultState: Enabled
 ## Dependencies: SunnArt
 ## X-eMail: ergozru@gmail.com
+## X-site: https://riftbit.com
+## X-site: https://ergoz.ru
 SunnArtErgoZPack.lua
