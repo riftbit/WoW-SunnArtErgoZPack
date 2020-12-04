@@ -1,9 +1,9 @@
 
-[![Project: Sunn - Viewport Art \(SunnArt\) by \[riftbit\] ErgoZ](https://cf.way2muchnoise.eu/full_423628_downloads.svg)](https://www.curseforge.com/wow/addons/sunnartergozpack)
+[![Project: Sunn - Viewport Art SunnArt by riftbit ErgoZ](https://cf.way2muchnoise.eu/full_423628_downloads.svg)](https://www.curseforge.com/wow/addons/sunnartergozpack)
 
 ## Overview
 
-[Sunn - Viewport Art (SunnArt) by \[riftbit\] ErgoZ](https://www.curseforge.com/wow/addons/sunnartergozpack) for World of Warcraft
+[Sunn - Viewport Art (SunnArt)](https://www.curseforge.com/wow/addons/sunnartergozpack) by [\[riftbit\] ErgoZ](https://www.curseforge.com/members/riftbit/projects) for World of Warcraft
 
 Custom Sunn Art textures by [\[riftbit\] ErgoZ](https://www.curseforge.com/members/riftbit/projects)
 
