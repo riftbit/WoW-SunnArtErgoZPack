@@ -21,13 +21,12 @@ As well for future games and technologies streams and videos
 
 ### Custom
 
- - In progress! Will be added in next update
+ - wc3_human_ui_ergoz - Warcraft III - Human UI by ErgoZ
 
 ### Original reorganized
 
- - wc3_decorative
- - wc3_horde
- - wc3_human_ui2
- - wc3_nelf_ui
- - wc3_orc_ui
- - wc3_undead_ui
+ - wc3_horde - Warcraft III - Horde
+ - wc3_human_ui2 - Warcraft III - Human UI
+ - wc3_nelf_ui - Warcraft III - Night Elf UI
+ - wc3_orc_ui - Warcraft III - Orc UI
+ - wc3_undead_ui - Warcraft III - Undead UI
