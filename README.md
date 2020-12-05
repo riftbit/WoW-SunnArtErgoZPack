@@ -1,13 +1,11 @@
 
-[![Project: Sunn - Viewport Art SunnArt by riftbit ErgoZ](https://cf.way2muchnoise.eu/full_423628_downloads.svg)](https://www.curseforge.com/wow/addons/sunnartergozpack)
+![Project: Sunn - Viewport Art SunnArt by riftbit ErgoZ](https://cf.way2muchnoise.eu/full_423628_downloads.svg)
 
 ## Overview
 
 [Sunn - Viewport Art (SunnArt)](https://www.curseforge.com/wow/addons/sunnartergozpack) by [\[riftbit\] ErgoZ](https://www.curseforge.com/members/riftbit/projects) for World of Warcraft
 
 Custom Sunn Art textures by [\[riftbit\] ErgoZ](https://www.curseforge.com/members/riftbit/projects)
-
-Includes modified original SunnArtPack10 files with another file path organisation
 
 Follow me on:
 
@@ -19,11 +17,11 @@ As well for future games and technologies streams and videos
 
 ## This Art Pack contains
 
-### Custom
+### Custom Viewport Arts
 
  - wc3_human_ui_ergoz - Warcraft III - Human UI by ErgoZ
 
-### Original reorganized
+### Includes original SunnArtPack10 files with another file path organisation
 
  - wc3_horde - Warcraft III - Horde
  - wc3_human_ui2 - Warcraft III - Human UI
