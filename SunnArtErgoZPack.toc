@@ -3,7 +3,7 @@
 ## Title: Sunn - Viewport Art (|cFF16C3F2SunnArt|r) by |cffff0000[riftbit] ErgoZ|r
 ## Notes: Textures for Sunn - Viewport Art (SunnArt) by |cffff0000[riftbit] ErgoZ|r
 ## Notes-ruRU: Дополнительные текстуры для Sunn - Viewport Art (SunnArt) by |cffff0000[riftbit] ErgoZ|r
-## Version: 0.2.0
+## Version: 0.3.0
 ## DefaultState: Enabled
 ## Dependencies: SunnArt
 ## X-Website: https://riftbit.com
